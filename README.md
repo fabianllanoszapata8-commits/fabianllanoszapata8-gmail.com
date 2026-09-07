@@ -82,3 +82,13 @@ Scripts en Python para automatizar tareas relacionadas con ciberseguridad.
 
 > *"Learn. Build. Break. Secure."*
 > 
+### 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofidevo&theme=tokyonight" alt="Sofi's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofidevo&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofidevo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
